@@ -2,8 +2,8 @@
   "banner": {
     "id": "banner-1",
     "title": "Anubisscan Premium",
-    "image_url": "https://example.com/banner.gif",
-    "target_url": "https://anubisscan.com/premium",
+    "image_url": "https://raw.githubusercontent.com/webmastesu/anubisscanbanner/refs/heads/main/photo_2025-09-26_19-50-29.jpg",
+    "target_url": "https://t.me/anubisshop2025",
     "is_active": true,
     "position": "floating",
     "priority": 1,
